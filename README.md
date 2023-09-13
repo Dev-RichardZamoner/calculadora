@@ -16,7 +16,7 @@ Este é um projeto simples de uma calculadora em HTML criado como parte de um es
 
 ## Exemplo
 
-![Calculadora em Ação]![image](https://github.com/Dev-RichardZamoner/calculadora/assets/130820445/d6d8dd0e-8170-49e7-ba62-b91e8beea29c)
+![image](https://github.com/Dev-RichardZamoner/calculadora/assets/130820445/d6d8dd0e-8170-49e7-ba62-b91e8beea29c)
 
 
 ## Notas
