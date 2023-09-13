@@ -28,7 +28,7 @@ Este é um projeto simples de uma calculadora em HTML criado como parte de um es
 
 ## Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+Este projeto está sob a licença MIT. Consulte o arquivo [(LICENSE)](https://github.com/Dev-RichardZamoner/calculadora/blob/main/LICENSE.mit) para obter detalhes.
 
 ---
 
